@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#071426"/>
+    <stop offset="55%" stop-color="#102c4c"/>
+    <stop offset="100%" stop-color="#173c57"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#38bdf8"/>
+    <stop offset="50%" stop-color="#34d399"/>
+    <stop offset="100%" stop-color="#a78bfa"/>
+  </linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0H0V32" fill="none" stroke="#8ab4d6" stroke-opacity=".10" stroke-width="1"/>
+  </pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="340" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="340" rx="22" fill="url(#grid)"/>
+<g opacity=".8" stroke="url(#accent)" stroke-width="2" fill="none">
+  <path d="M790 90H900L960 145H1090"/>
+  <path d="M820 240H930L990 190H1125"/>
+  <path d="M900 90V55H1040"/>
+  <path d="M930 240V285H1080"/>
+</g>
+<g fill="#38bdf8" filter="url(#glow)">
+  <circle cx="790" cy="90" r="5"/><circle cx="900" cy="90" r="5"/><circle cx="960" cy="145" r="5"/>
+  <circle cx="1090" cy="145" r="5"/><circle cx="820" cy="240" r="5"/><circle cx="930" cy="240" r="5"/>
+  <circle cx="990" cy="190" r="5"/><circle cx="1125" cy="190" r="5"/>
+</g>
+<g transform="translate(825 112)" fill="none" stroke="url(#accent)" stroke-width="3">
+  <rect x="0" y="0" width="260" height="112" rx="12" opacity=".55"/>
+  <path d="M24 30l16 14-16 14M65 58h40M130 30h95M130 58h70M130 86h48" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="224" cy="86" r="7" fill="#34d399" stroke="none"/>
+</g>
+<text x="72" y="105" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="5" fill="#9cc7e5">SYSTEMS • AUTOMATION • RELIABILITY</text>
+<text x="68" y="178" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" fill="#ffffff">RAHUL WAGH</text>
+<rect x="72" y="204" width="540" height="4" rx="2" fill="url(#accent)"/>
+<text x="72" y="250" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600" fill="#e5f3ff">DEVOPS ENGINEERING  |  CLOUD  |  SRE</text>
+<text x="72" y="292" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#b6cde0">Automating systems. Engineering reliable delivery. Building for scale.</text>
+</svg>
