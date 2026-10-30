@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-banner.svg" alt="Rahul Wagh — DevOps Engineering, Cloud and SRE" width="100%"/>
+<img src="profile-banner.svg" alt="Rahul Wagh — DevOps Engineering, Cloud and SRE" width="100%"/>
 
 <br/>
 
