@@ -22,23 +22,23 @@
 
 I'm **Rahul Wagh**, a **System Engineer at TCS**, working with the DevOps team on sprint-based engineering tasks across automation, CI/CD and production reliability.
 
-I design and implement operational automation, contribute to application delivery workflows, and collaborate with relevant teams during production incidents and major incident management (MIM) calls. My current focus also includes improving infrastructure visibility through Prometheus, Grafana and Loki.
+I build operational automation, contribute to application delivery workflows, and collaborate with engineering teams during production incidents and major incident management (MIM). I'm also developing monitoring and observability capabilities with Prometheus, Grafana and Loki.
 
-- ⚙️ **Automation:** GitHub Actions, Shell scripting and repeatable operational workflows.
-- 🚀 **Delivery:** CI/CD pipelines, Jenkins, deployment automation and release activities.
-- 🔍 **Reliability:** Production incident investigation, technical resolution, cross-team coordination and post-incident reviews.
-- 📊 **Observability:** Prometheus metrics, Grafana dashboards and Loki-based log visibility.
-- 🎯 **Direction:** Building deeper expertise in Site Reliability Engineering, cloud infrastructure and distributed systems.
+- ⚙️ **Automation:** GitHub Actions, Shell scripting and repeatable production workflows.
+- 🚀 **Delivery:** CI/CD, Jenkins, deployment workflows and release engineering.
+- 🔍 **Reliability:** Incident investigation, technical resolution, cross-team coordination and post-incident learning.
+- 📊 **Observability:** Metrics, dashboards and centralized log visibility.
+- 🎯 **Engineering goal:** Grow into a DevOps/SRE engineer who improves delivery speed, system resilience and operational excellence.
 
 ---
 
 ## ⚙️ Professional Engineering Experience
 
-| Engineering area | Work and contribution |
+| Area | Engineering contribution |
 |---|---|
-| **Production Automation** | Designed and implemented a GitHub Actions workflow integrating thread-pool restart, change-request (CR) generation and patch deployment activities into a repeatable process. |
-| **Incident & Reliability Engineering** | Participate in production incident and MIM calls; investigate application and server issues, analyze CPU/resource utilization and WER, work towards technical resolution, coordinate with relevant teams and contribute to postmortems. |
-| **CI/CD & Release Engineering** | Work on sprint-assigned engineering tasks using Jira; contribute to Jenkins and GitHub Actions workflows, application build/deployment activities, patch releases and post-deployment validation. |
+| **Production Automation** | Designed and implemented GitHub Actions automation to orchestrate production change and patch-deployment activities, including change-request (CR) generation and repeatable workflow execution. |
+| **Incident & Reliability Engineering** | Participate in production incident and MIM calls; investigate application and server behaviour, analyze resource utilization and WER, coordinate with relevant teams on technical resolution, and contribute to postmortems. |
+| **CI/CD & Release Engineering** | Deliver sprint-assigned engineering tasks through Jira; work with Jenkins and GitHub Actions workflows, application build/deployment activities, patch releases and post-deployment validation. |
 | **Monitoring & Observability** | Currently implementing Prometheus-based metrics collection, Grafana dashboards for server visibility and Loki-based log collection and dashboards. |
 
 ---
@@ -65,9 +65,9 @@ I design and implement operational automation, contribute to application deliver
 
 </div>
 
-**Practical experience:** Linux, Shell scripting, Git/GitHub, Jenkins, GitHub Actions, Maven, SonarQube, Nexus, Docker, Kubernetes, AWS fundamentals and application deployment.
+**Practical foundation:** Linux, Shell scripting, Git/GitHub, Jenkins, GitHub Actions, Maven, SonarQube, Nexus, Docker, Kubernetes, AWS fundamentals and application deployment.
 
-**Currently expanding:** Prometheus, Grafana, Loki, Terraform, Ansible, Argo CD, networking, distributed systems and SRE practices.
+**Expanding into:** Prometheus, Grafana, Loki, Terraform, Ansible, Argo CD, networking, distributed systems and SRE practices.
 
 ---
 
@@ -80,6 +80,21 @@ I design and implement operational automation, contribute to application deliver
 | [Linux SRE Handbook](https://github.com/Rjwagh2001/linux-sre-handbook) | Linux administration, shell scripting, troubleshooting and operational commands |
 | [Networking Handbook](https://github.com/Rjwagh2001/networking-handbook) | Networking fundamentals, connectivity, infrastructure communication and troubleshooting |
 | [Tomcat SRE Handbook](https://github.com/Rjwagh2001/Tomcat-SRE-Handbook) | Tomcat installation, configuration, deployment and application troubleshooting |
+
+---
+
+## 🧭 Engineering Practices I'm Building Toward
+
+The goal is to move beyond operating tools and learn to engineer systems that are safe to change, observable, resilient and scalable.
+
+- **Reliable delivery:** Automated testing and quality gates, artifact/version management, deployment strategies (rolling, blue/green and canary), rollback design and release safety.
+- **Infrastructure & platform engineering:** Terraform, configuration management, reusable infrastructure modules, Kubernetes operations, GitOps and self-service delivery patterns.
+- **Observability & SRE:** OpenTelemetry, metrics/logs/traces, actionable alerting, SLIs, SLOs, error budgets, toil reduction and service health objectives.
+- **Resilience & performance:** Capacity planning, load testing, failure-mode analysis, graceful degradation, recovery objectives and game days.
+- **Operational excellence:** Incident command, clear escalation, blameless postmortems, corrective-action tracking and measurable reliability improvements.
+- **Secure engineering:** Least-privilege IAM, secrets management, image/dependency scanning and software supply-chain security.
+
+*These are active learning and implementation goals—not claims that I have already delivered all of them in production.*
 
 ---
 
@@ -106,24 +121,7 @@ I design and implement operational automation, contribute to application deliver
 
 </div>
 
-> GitHub's native contribution graph is displayed automatically below the profile README. Third-party analytics cards depend on external services and may occasionally be unavailable.
-
----
-
-## 🧭 Engineering Roadmap
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/01-Linux%20%26%20Networking-2563eb?style=flat-square"/>
-<img src="https://img.shields.io/badge/02-DevOps%20%26%20CI%2FCD-0f766e?style=flat-square"/>
-<img src="https://img.shields.io/badge/03-Containers%20%26%20Kubernetes-326CE5?style=flat-square"/>
-<img src="https://img.shields.io/badge/04-Cloud%20%26%20IaC-FF9900?style=flat-square"/>
-<img src="https://img.shields.io/badge/05-Observability-7c3aed?style=flat-square"/>
-<img src="https://img.shields.io/badge/06-SRE%20%26%20Distributed%20Systems-059669?style=flat-square"/>
-
-</div>
-
-Continuously developing deeper engineering knowledge in Linux internals, networking, CI/CD architecture, cloud infrastructure, Infrastructure as Code, observability, SLIs/SLOs, incident management, distributed systems and reliability engineering.
+> GitHub's native contribution graph appears below the profile README. Third-party analytics cards depend on external services and may occasionally be unavailable.
 
 ---
 
