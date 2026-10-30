@@ -1,6 +1,6 @@
-<div align="center">
+ <div align="center">
 
-<img src="profile-banner.svg" alt="Rahul Wagh — DevOps Engineering, Cloud and SRE" width="100%"/>
+<img src="./profile-banner.svg" alt="Rahul Wagh — DevOps Engineering, Cloud and SRE" width="100%"/>
 
 <br/>
 
@@ -8,11 +8,11 @@
 <a href="https://github.com/Rjwagh2001?tab=followers"><img src="https://img.shields.io/github/followers/Rjwagh2001?style=for-the-badge&logo=github&label=Followers&color=2563eb" alt="GitHub followers"/></a>
 <a href="https://github.com/Rjwagh2001?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-0f766e?style=for-the-badge&logo=github" alt="Repositories"/></a>
 
-### Systems Engineering · DevOps · Cloud Infrastructure · Site Reliability Engineering
+### Production Engineering · DevOps Automation · Cloud Infrastructure · Site Reliability Engineering
 
-**Automating systems. Engineering reliable delivery. Building for scale.**
+**Automating operations. Improving delivery. Engineering reliable systems.**
 
-[LinkedIn](https://www.linkedin.com/in/rahulnwagh/) · [GitHub](https://github.com/Rjwagh2001)
+<a href="https://www.linkedin.com/in/rahulnwagh/">LinkedIn</a> · <a href="https://github.com/Rjwagh2001">GitHub</a>
 
 </div>
 
@@ -20,14 +20,88 @@
 
 ## 👋 About Me
 
-I'm **Rahul Wagh**, a System Engineer at **TCS**, working with a large-scale application environment and collaborating closely with DevOps teams on automation, CI/CD workflows, and deployment engineering.
+I'm **Rahul Wagh**, a **System Engineer at TCS**, working in production support and application operations, with practical experience in automation, deployment workflows and infrastructure monitoring.
 
-My interests centre on building repeatable delivery workflows, automating operational tasks, understanding infrastructure end to end, and improving how applications are deployed, monitored, and operated.
+My work sits at the intersection of production engineering and DevOps. I focus on reducing repetitive operational effort, automating deployment activities, troubleshooting application environments and improving operational visibility.
 
-- ⚙️ **Current focus:** DevOps engineering, CI/CD, GitHub Actions, Jenkins, scripting and cloud-native infrastructure.
-- ☁️ **Core interests:** Linux, networking, AWS, Docker, Kubernetes and observability.
-- 🎯 **Long-term direction:** Site Reliability Engineering — applying software engineering and systems thinking to build scalable, resilient and reliable services.
-- 📚 **Learning in public:** Practical labs, implementation notes, architecture and troubleshooting in my repositories.
+I have personally designed and implemented a GitHub Actions automation workflow that brings together production operational activities, including thread-pool restart, change-request generation and patch deployment.
+
+I'm also expanding my work into monitoring and observability using Prometheus, Grafana and Loki.
+
+**What I focus on:**
+
+- ⚙️ **Production Automation:** Building automated workflows with GitHub Actions and Shell scripting to reduce repetitive operational activities.
+- 🚀 **Deployment Engineering:** Working with Jenkins, CI/CD pipelines, application deployments and release activities.
+- 🔍 **Production Reliability:** Investigating incidents, analyzing application and server behaviour, and supporting production stability.
+- 📊 **Observability:** Developing monitoring dashboards and centralized log visibility using Prometheus, Grafana and Loki.
+- ☁️ **Infrastructure Engineering:** Building practical knowledge of Linux, networking, AWS, Docker and Kubernetes.
+- 🎯 **Career Direction:** Growing towards Site Reliability Engineering through automation, observability, distributed systems and reliability engineering.
+
+---
+
+## ⚙️ Professional Engineering Experience
+
+### 1. Production Automation & Workflow Engineering
+
+**GitHub Actions | Shell Scripting | Operational Automation**
+
+Designed and implemented an end-to-end GitHub Actions automation workflow for production operational activities.
+
+Key responsibilities and implementation areas:
+
+- Automated thread-pool restart activities through GitHub Actions.
+- Integrated change-request (CR) generation into the automation workflow.
+- Automated patch deployment activities as part of the workflow.
+- Connected multiple operational steps into a repeatable execution process.
+- Used automation to reduce manual intervention in recurring operational activities.
+
+**Engineering focus:** Workflow orchestration, repeatability, operational efficiency and reducing manual execution.
+
+### 2. Production Support & Reliability Operations
+
+**Linux | Application Troubleshooting | Tomcat | Incident Management**
+
+Working in an enterprise application production environment, supporting application availability and operational stability.
+
+Areas of responsibility:
+
+- L2 production support and incident investigation.
+- Participation in major incident management (MIM) activities.
+- Investigating application and server-side issues.
+- Checking service health, CPU utilization and server behaviour.
+- Analyzing Tomcat, application and system logs to investigate failures.
+- Supporting troubleshooting, incident resolution and operational follow-ups.
+
+**Engineering focus:** Incident response, systematic troubleshooting, application health and production reliability.
+
+### 3. CI/CD & Deployment Engineering
+
+**Jenkins | GitHub Actions | Maven | SonarQube | Nexus**
+
+Practical experience with CI/CD tooling and application delivery workflows.
+
+- Working with Jenkins pipelines for application build and deployment activities.
+- Supporting patch deployment and release execution.
+- Understanding build, artifact management and deployment stages.
+- Applying post-deployment checks and operational validation.
+
+**Engineering focus:** Reliable releases, repeatable deployments and delivery automation.
+
+### 4. Monitoring & Observability Engineering
+
+**Prometheus | Grafana | Loki**
+
+Currently developing monitoring and observability capabilities for server and application environments.
+
+Current implementation work:
+
+- Configuring Prometheus-based metrics collection.
+- Building Grafana dashboards for server and infrastructure monitoring.
+- Developing Loki-based log collection and log dashboards.
+- Improving visibility into infrastructure health and application behaviour.
+- Exploring how metrics, logs, traces and alerts support incident investigation.
+
+**Engineering focus:** Infrastructure visibility, centralized logging, monitoring and faster troubleshooting.
 
 ---
 
@@ -36,22 +110,38 @@ My interests centre on building repeatable delivery workflows, automating operat
 <div align="center">
 
 ### Systems & Programming
+
 <img src="https://skillicons.dev/icons?i=linux,bash,python,java,git,github&perline=6" alt="Linux Bash Python Java Git GitHub"/>
 
 ### CI/CD & Build Engineering
+
 <img src="https://skillicons.dev/icons?i=jenkins,githubactions,maven&perline=6" alt="Jenkins GitHub Actions Maven"/>
 
 ### Containers, Orchestration & Cloud
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,ansible&perline=6" alt="Docker Kubernetes AWS Terraform Ansible"/>
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws&perline=6" alt="Docker Kubernetes AWS"/>
 
 ### Monitoring & Observability
+
 <img src="https://skillicons.dev/icons?i=prometheus,grafana&perline=6" alt="Prometheus Grafana"/>
 
 </div>
 
-**Hands-on foundation:** Linux, Shell scripting, Git/GitHub, Jenkins, Maven, SonarQube, Nexus, Docker, Kubernetes, AWS fundamentals and application deployment.
+**Practical experience:** Linux, Shell scripting, Git/GitHub, Jenkins, GitHub Actions, Maven, SonarQube, Nexus, Docker, Kubernetes, AWS fundamentals and application deployment.
 
-**Current / deeper exploration:** Networking, Prometheus, Grafana, Loki, Terraform, Ansible, Argo CD, distributed systems and SRE practices.
+**Currently expanding:** Prometheus, Grafana, Loki, Terraform, Ansible, Argo CD, networking, distributed systems and SRE practices.
+
+---
+
+## 🧪 Hands-on Engineering Projects
+
+| Project | Engineering focus |
+|---|---|
+| [Kubernetes Labs](https://github.com/Rjwagh2001/K8s) | Kubernetes workloads, Deployments, Services, NodePort, Ingress, Minikube and application deployment |
+| [Jenkins Zero to Hero](https://github.com/Rjwagh2001/Jenkins-Zero-To-Hero) | CI/CD pipelines, Maven, SonarQube, Nexus and application delivery |
+| [Linux SRE Handbook](https://github.com/Rjwagh2001/linux-sre-handbook) | Linux administration, shell scripting, troubleshooting and operational commands |
+| [Networking Handbook](https://github.com/Rjwagh2001/networking-handbook) | Networking fundamentals, connectivity, infrastructure communication and troubleshooting |
+| [Tomcat SRE Handbook](https://github.com/Rjwagh2001/Tomcat-SRE-Handbook) | Tomcat installation, configuration, deployment and application troubleshooting |
 
 ---
 
@@ -67,55 +157,12 @@ My interests centre on building repeatable delivery workflows, automating operat
 
 ---
 
-## 🚀 Engineering Work & Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ Automation & Release Engineering
-
-- GitHub Actions automation for thread-pool restart workflows, change-request generation and patch deployment activities.
-- Shell scripting for repeatable operational tasks and thread-dump generation to support application diagnostics.
-- Jenkins CI/CD workflows for application build and deployment activities.
-- Patch deployment workflow development and post-deployment validation.
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Monitoring & Observability
-
-- Working with Prometheus for metrics collection.
-- Building Grafana dashboards for infrastructure and application visibility.
-- Exploring Loki for log collection and analysis.
-- Developing an understanding of metrics, logs, traces, alerting and reliability signals.
-
-</td>
-</tr>
-</table>
-
-### 🧪 Selected Hands-on Projects
-
-| Project | What it demonstrates |
-|---|---|
-| [Kubernetes Labs](https://github.com/Rjwagh2001/K8s) | Kubernetes workloads, Deployments, Services, NodePort, Ingress, Minikube and application deployment |
-| [Jenkins Zero to Hero](https://github.com/Rjwagh2001/Jenkins-Zero-To-Hero) | CI/CD pipelines, Maven, SonarQube, Nexus and application delivery workflows |
-| [Linux SRE Handbook](https://github.com/Rjwagh2001/linux-sre-handbook) | Linux fundamentals, administration, commands, scripting and troubleshooting |
-| [Networking Handbook](https://github.com/Rjwagh2001/networking-handbook) | Networking foundations for infrastructure, application communication and distributed systems |
-| [Tomcat SRE Handbook](https://github.com/Rjwagh2001/Tomcat-SRE-Handbook) | Tomcat setup, configuration, application deployment and troubleshooting |
-
----
-
 ## 📈 GitHub Analytics
 
 <div align="center">
 
 <img height="175" src="https://ghstats.dev/api/card?username=Rjwagh2001&theme=midnight" alt="Rahul's GitHub statistics"/>
 <img height="175" src="https://streak-stats.demolab.com?user=Rjwagh2001&theme=dark&hide_border=true&background=0D1117&ring=38BDF8&fire=34D399&currStreakLabel=38BDF8" alt="GitHub contribution streak"/>
-
-</div>
-
-<div align="center">
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rjwagh2001&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
 
@@ -138,7 +185,15 @@ My interests centre on building repeatable delivery workflows, automating operat
 
 </div>
 
-I am deepening the engineering foundations behind these technologies: system behaviour, networking, automation, infrastructure design, deployment safety, observability, resilience, capacity and reliability measurement.
+Continuously developing deeper engineering knowledge in:
+
+- Linux internals, networking and operating systems.
+- CI/CD architecture and deployment strategies.
+- Container orchestration and cloud infrastructure.
+- Infrastructure as Code and configuration management.
+- Monitoring, logging, tracing and observability.
+- SLIs, SLOs, error budgets and incident management.
+- Distributed systems, scalability and reliability engineering.
 
 ---
 
@@ -151,6 +206,6 @@ I am deepening the engineering foundations behind these technologies: system beh
 
 <br/><br/>
 
-**Build systems that scale. Automate what can be automated. Engineer for reliability.**
+**Build systems that scale. Automate repetitive operations. Engineer for reliability.**
 
 </div>
