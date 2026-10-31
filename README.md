@@ -4,15 +4,15 @@
 
 <br/>
 
-<a href="https://github.com/Rjwagh2001"><img src="https://komarev.com/ghpvc/?username=Rjwagh2001&style=for-the-badge&color=0e7490" alt="Profile views"/></a>
-<a href="https://github.com/Rjwagh2001?tab=followers"><img src="https://img.shields.io/github/followers/Rjwagh2001?style=for-the-badge&logo=github&label=Followers&color=2563eb" alt="GitHub followers"/></a>
-<a href="https://github.com/Rjwagh2001?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-0f766e?style=for-the-badge&logo=github" alt="Repositories"/></a>
+<a href="https://github.com/hirahulwagh"><img src="https://komarev.com/ghpvc/?username=hirahulwagh&style=for-the-badge&color=0e7490" alt="Profile views"/></a>
+<a href="https://github.com/hirahulwagh?tab=followers"><img src="https://img.shields.io/github/followers/hirahulwagh?style=for-the-badge&logo=github&label=Followers&color=2563eb" alt="GitHub followers"/></a>
+<a href="https://github.com/hirahulwagh?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-0f766e?style=for-the-badge&logo=github" alt="Repositories"/></a>
 
 ### DevOps Engineering · Production Automation · Cloud Infrastructure · Site Reliability Engineering
 
 **Automating operations. Improving delivery. Engineering reliable systems.**
 
-<a href="https://www.linkedin.com/in/rahulnwagh/">LinkedIn</a> · <a href="https://github.com/Rjwagh2001">GitHub</a>
+<a href="https://www.linkedin.com/in/rahulnwagh/">LinkedIn</a> · <a href="https://github.com/hirahulwagh">GitHub</a>
 
 </div>
 
@@ -75,11 +75,11 @@ I build operational automation, contribute to application delivery workflows, an
 
 | Project | Engineering focus |
 |---|---|
-| [Kubernetes Labs](https://github.com/Rjwagh2001/K8s) | Kubernetes workloads, Deployments, Services, NodePort, Ingress, Minikube and application deployment |
-| [Jenkins Zero to Hero](https://github.com/Rjwagh2001/Jenkins-Zero-To-Hero) | CI/CD pipelines, Maven, SonarQube, Nexus and application delivery |
-| [Linux SRE Handbook](https://github.com/Rjwagh2001/linux-sre-handbook) | Linux administration, shell scripting, troubleshooting and operational commands |
-| [Networking Handbook](https://github.com/Rjwagh2001/networking-handbook) | Networking fundamentals, connectivity, infrastructure communication and troubleshooting |
-| [Tomcat SRE Handbook](https://github.com/Rjwagh2001/Tomcat-SRE-Handbook) | Tomcat installation, configuration, deployment and application troubleshooting |
+| [Kubernetes Labs](https://github.com/hirahulwagh/K8s) | Kubernetes workloads, Deployments, Services, NodePort, Ingress, Minikube and application deployment |
+| [Jenkins Zero to Hero](https://github.com/hirahulwagh/Jenkins-Zero-To-Hero) | CI/CD pipelines, Maven, SonarQube, Nexus and application delivery |
+| [Linux SRE Handbook](https://github.com/hirahulwagh/linux-sre-handbook) | Linux administration, shell scripting, troubleshooting and operational commands |
+| [Networking Handbook](https://github.com/hirahulwagh/networking-handbook) | Networking fundamentals, connectivity, infrastructure communication and troubleshooting |
+| [Tomcat SRE Handbook](https://github.com/hirahulwagh/Tomcat-SRE-Handbook) | Tomcat installation, configuration, deployment and application troubleshooting |
 
 ---
 
@@ -114,10 +114,10 @@ The goal is to move beyond operating tools and learn to engineer systems that ar
 
 <div align="center">
 
-<img height="175" src="https://ghstats.dev/api/card?username=Rjwagh2001&theme=midnight" alt="Rahul's GitHub statistics"/>
-<img height="175" src="https://streak-stats.demolab.com?user=Rjwagh2001&theme=dark&hide_border=true&background=0D1117&ring=38BDF8&fire=34D399&currStreakLabel=38BDF8" alt="GitHub contribution streak"/>
+<img height="175" src="https://ghstats.dev/api/card?username=hirahulwagh&theme=midnight" alt="Rahul's GitHub statistics"/>
+<img src="https://streak-stats.demolab.com?user=hirahulwagh&theme=dark&hide_border=true&background=0D1117&ring=38BDF8&fire=34D399&currStreakLabel=38BDF8" height="175" alt="GitHub contribution streak"/>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rjwagh2001&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hirahulwagh&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
 
 </div>
 
@@ -130,7 +130,7 @@ The goal is to move beyond operating tools and learn to engineer systems that ar
 <div align="center">
 
 <a href="https://www.linkedin.com/in/rahulnwagh/"><img src="https://img.shields.io/badge/LinkedIn-Rahul%20Wagh-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-<a href="https://github.com/Rjwagh2001"><img src="https://img.shields.io/badge/GitHub-Rjwagh2001-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+<a href="https://github.com/hirahulwagh"><img src="https://img.shields.io/badge/GitHub-hirahulwagh-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
 
 <br/><br/>
 
